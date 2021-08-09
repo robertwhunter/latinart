@@ -41,6 +41,13 @@ Trials are categorised as follows:
 \BeginKnitrBlock{box_landmark}<div class="box_landmark">Truly landmark trials (one or two only in each chapter) are marked with stars: ![](Logo_SEM.png){height=1.2em}.  
 </div>\EndKnitrBlock{box_landmark}
 
+
+For a list of recently-published RCTs in renal and transplant medicine, see the twitter feed below: 
+
+<br>
+
+<a class="twitter-timeline" href="https://twitter.com/renalRCTs/likes?ref_src=twsrc%5Etfw">this Twitter timeline</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>.  
+
 <!--
 
 To be added...
