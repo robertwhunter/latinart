@@ -1,0 +1,9 @@
+# Renovascular disease
+
+Two large RCTs found **no benefit of revascularisation** in atherosclerotic renal artery disease.  
+
+\BeginKnitrBlock{box_landmark}<div class="box_landmark">[**ASTRAL**](https://www.ncbi.nlm.nih.gov/pubmed/19907042) (2009): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - revascularisation *vs.* medical therapy alone in atherosclerotic renal artery disease. No benefit from revascularisation.  
+</div>\EndKnitrBlock{box_landmark}
+
+[**CORAL**](https://www.ncbi.nlm.nih.gov/pubmed/24245566) (2014): ![](Logo_RCT.png){height=1.2em} - revascularisation *vs.* medical therapy alone in atherosclerotic renal artery disease. No benefit from revascularisation.  
+

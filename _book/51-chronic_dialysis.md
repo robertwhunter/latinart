@@ -1,5 +1,7 @@
 # Chronic dialysis
+
 ## Chronic Haemodialysis
+
 ### Modality
 
 [**ESHOL**](https://www.ncbi.nlm.nih.gov/pubmed/23411788) (2013): ![](Logo_RCT.png){height=1.2em} - online-HDF *vs.* HD.  Lower rates of all-cause, infective and CVS mortality in the HDF group.  Lower rates of intra-dialytic hypotension in HDF group.    
@@ -26,3 +28,10 @@
 [**IMPENDIA & EDEN**](https://www.ncbi.nlm.nih.gov/pubmed/23949801) (2013): ![](Logo_RCT.png){height=1.2em} - control *vs.* low-glucose dialysate in patients with diabetes on PD.  Low-glucose group had improved HbA1C and lipid profiles but higher rates of death and adverse events associated with volume-expansion.  
 
 [**EAPOS**](https://www.ncbi.nlm.nih.gov/pubmed/14569106) (2003): ![](Logo_OBS.png){height=1.2em} - observational study of anuric patients on APD.  Outcomes acceptable if UF > 750 ml/day (as was achieved in ~75%).  
+
+
+## Conservative care
+
+So far, no RCT has assessed benefits of conservative vs. dialysis treatment of ESKD.  
+
+[**Verberne et al.**](https://www.ncbi.nlm.nih.gov/pubmed/26988748) (2016): ![](Logo_OBS.png){height=1.2em} - single-centre observational study in the Netherlands.  Conservative care associated with improved survival in patients aged <80; no difference if over 80.  Any survival benefit was attenuated in the presence of severe co-morbidity.  

@@ -25,14 +25,31 @@ Contemporary protocols favour relatively less **steroid**:
 
 [**MYLUPUS**](https://www.ncbi.nlm.nih.gov/pubmed/21976398) (2011): ![](Logo_RCT.png){height=1.2em} - standard-dose (starting ~1 mg/kg/day) *vs.* low-dose (starting ~0.5 mg/kg/day) pred in proliferative LN.  Both groups treated with enteric-coated mycophenolate (~720 mg bd then tid).  Small study (n = 40 + 40) but similar efficacy at inducing remission by 6 months.  
 
-## Maintenance
+
+## Maintenance & adjunctive Rx
 
 MMF is superior to aza in maintenance:
 [**Dooley et al.**](https://www.ncbi.nlm.nih.gov/pubmed/22087680) (2011): ![](Logo_RCT.png){height=1.2em} - MMF (2g/day) *vs* aza (2 mg/kg/day) for maintenance of remission in lupus nephritis.  MMF superior at maintaining remission (treatment failure during 3 year follow-up ~16 *vs* 32%) and associated with fewer serious adverse events.  
 
+[**Canadian HCQ trial**](https://www.ncbi.nlm.nih.gov/pubmed/1984192) (1991): ![](Logo_RCT.png){height=1.2em} - withdrawal *vs* continuation of HCQ in stable lupus.  Withdrawal lead to ~2.5x risk of lupus flare.  
+
+
 ## Newer therapies
 
+### B-cell therapies
+
 **Rituximab** may be an alternative option in steroid-sparing regimes and for rescue therapy.  
+
 [**LUNAR**](https://www.ncbi.nlm.nih.gov/pubmed/22231479) (2012): ![](Logo_RCT.png){height=1.2em} - rituximab *vs.* placebo in proliferative lupus nephritis (alongside MMF and steroids).  No difference in primary end-point (of renal response at 1 year).  
 
 **RITUXILUP** - not yet reported.  
+
+**Belimumab** targets B-cell activating factor (BAFF, aka B-lymphocyte stimulator, BLyS).  
+
+[**BLISS-LN**](https://www.ncbi.nlm.nih.gov/pubmed/32937045) (2020): ![](Logo_RCT.png){height=1.2em} - belimumab *vs* placebo (plus standard induction with CYC / MMF) in lupus nephritis.  Primary outcome was changed after study registration.  Final primary outcome was uPCR < 100 with stable eGFR and no rescue Rx at 2 yrs.  Belimumab was efficacious (40 vs. 30% primary end-point) with good safety profile.  The results would not have been statistically significant for the original primary end-point (complete / partial / non-response).  
+
+
+
+### CNIs
+
+[**AURORA**](https://www.ncbi.nlm.nih.gov/pubmed/33971155) (2021): ![](Logo_RCT.png){height=1.2em} - voclosporin *vs* placebo in lupus nephritis, in addition to MMF and pred.  Primary endpoint was complete renal remission at 1 yr.  Voclosporin was effective (primary endpoint in ~40 vs. 20%) with no safety signal.  
