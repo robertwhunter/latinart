@@ -15,4 +15,4 @@ Do **calcium-containing binders** cause worse hard outcomes?
 
 [**Jamal et al.**](https://www.ncbi.nlm.nih.gov/pubmed/23870817) (2013): ![](Logo_MET.png){height=1.2em} - meta-analysis of 11 RCTs comparing calcium-based with non-calcium-based phosphate binders.  Non-calcium-based binders had lower all-cause mortality (RR 0.78, 0.61--0.98).  
 
-**LANDMARK**: ![](Logo_RCT.png){height=1.2em} - Lanthanum *vs.* calcium in HD patients.  Not yet published (but presented at ASN 2018 - no difference between two groups).  
+[**LANDMARK**](https://www.ncbi.nlm.nih.gov/pubmed/34003226) (2021): ![](Logo_RCT.png){height=1.2em} - Lanthanum *vs.* calcium in HD patients (n = 2300 over ~3 yrs).  No benefit on primary endpoint of composite CVS events.    

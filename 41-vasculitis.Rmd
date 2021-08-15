@@ -1,4 +1,5 @@
 # ANCA vasculitis
+
 ## Induction
 
 ### Glucocorticoids & Plasma-exchange
@@ -7,7 +8,7 @@
 
 ```{block2, type='box_landmark'}
 
-**PEXIVAS** (not yet published but reported at ERA-EDTA 2018): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - factorial, low- *vs.* standard-dose glucocorticoids and plasma-exchange *vs.* no plasma exchange.  Median Cr 330; alveolar haemorrhage in 25%.  Primary outcome was composite of death and ESRF at 2 yrs.  Lower-dose steroids were non-inferior w.r.t. primary outcome are caused fewer serious infections during first year.  PLEX had no effect on primary outcome (overall and in pre-specified subgroups including Cr > 500 and lung haemorrhage).  
+**PEXIVAS** (https://www.ncbi.nlm.nih.gov/pubmed/32053298): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - factorial, low- *vs.* standard-dose glucocorticoids and plasma-exchange *vs.* no plasma exchange.  Median Cr 330; alveolar haemorrhage in 25%.  Primary outcome was composite of death and ESRF at 2 yrs.  Lower-dose steroids were non-inferior w.r.t. primary outcome are caused fewer serious infections during first year.  PLEX had no effect on primary outcome (overall and in pre-specified subgroups including Cr > 500 and lung haemorrhage).  
 
 ```
 

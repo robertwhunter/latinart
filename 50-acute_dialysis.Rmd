@@ -1,4 +1,4 @@
-# (PART) RRT & TRANSPLANT {-}
+# (PART) DIALYSIS {-}
 
 # Acute dialysis {#acute_RRT}
 
@@ -16,6 +16,7 @@
 
 ```
 
+
 ## Timing
 
 The bulk of the literature does not support early initiation of RRT in AKI.  
@@ -24,5 +25,9 @@ The bulk of the literature does not support early initiation of RRT in AKI.
 
 [**IDEAL-ICU**](https://www.ncbi.nlm.nih.gov/pubmed/30304656): ![](Logo_RCT.png){height=1.2em} - early *vs.* delayed initiation of RRT in AKI in sepsis (n = 488).  No effect on 90-day mortality (which was over 50% in both groups).  
 
-**STARRT-AKI**: not yet reported (n = 2000).  
+```{block2, type='box_landmark'}
+[**STARRT-AKI**](https://www.ncbi.nlm.nih.gov/pubmed/32668114): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - early *vs* standard RRT in AKI (n = 3000).  No benefit on primary outcome of death at 90 days.  More adverse events and more ongoing requirement for RRT in early group.  
 
+```
+
+[**Gaudry et al.**](https://doi.org/10.1016/S0140-6736(20)30531-6): ![](Logo_MET.png){height=1.2em} - individual patient-level meta-analysis confirms no benefit of early initiation.  
