@@ -52,4 +52,11 @@ MMF is superior to aza in maintenance:
 
 ### CNIs
 
-[**AURORA**](https://www.ncbi.nlm.nih.gov/pubmed/33971155) (2021): ![](Logo_RCT.png){height=1.2em} - voclosporin *vs* placebo in lupus nephritis, in addition to MMF and pred.  Primary endpoint was complete renal remission at 1 yr.  Voclosporin was effective (primary endpoint in ~40 vs. 20%) with no safety signal.  
+[**Multi-target therapy**](https://pubmed.ncbi.nlm.nih.gov/25383558/) (2015): ![](Logo_RCT.png){height=1.2em} - tacro + MMF + steroid *vs* IV CYC + steroid in Chinese population (n = 368).  Tacro and MMF induced greater complete remission (25 *vs* 45 %) at 24 weeks.  
+
+[**AURORA**](https://www.ncbi.nlm.nih.gov/pubmed/33971155) (2021): ![](Logo_RCT.png){height=1.2em} - voclosporin *vs* placebo in lupus nephritis, in addition to MMF and pred.  Primary endpoint was complete renal remission at 1 yr.  Voclosporin was effective (primary endpoint in ~40 vs. 20%) with no safety signal.  Primary endpoint dominated by proteinuria response which may of course be haemodynamic.  
+
+
+## Glucocorticoid toxicity
+
+[**Apostolopoulos et al.**](https://doi.org/10.1016/S2665-9913(19)30105-5) (2020): ![](Logo_OBS.png){height=1.2em} - cohort study in South-East Asia / Australasia (n = 1700): in patients with SLE (of whom 50% had baseline kidney disease - not necessarily lupus nephritis), glucocorticoid use was associated with damage accrual, independent of disease activity.  

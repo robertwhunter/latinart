@@ -9,11 +9,22 @@
 
 ## IgAN
 ```{block2, type='box_landmark'}
-[**STOP-IgAN**](https://www.ncbi.nlm.nih.gov/pubmed/26630142) (2015): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - supportive care only *vs.* immunosuppression in IgAN with PER > 0.75 g/day.  No difference in renal outcomes (in 3-year follow-up) but more adverse events in immunosuppression group.    
+[**STOP-IgAN**](https://www.ncbi.nlm.nih.gov/pubmed/26630142) (2015): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - supportive care only *vs.* immunosuppression (pred, CYC, aza) for 3 yrs in IgAN with PER > 0.75 g/day (n = 160).  No significant difference in eGFR, uPCR, renal outcomes but more adverse events (infections, T2DM, weight gain) in immunosuppression group.  German population.  
 
 ```
 
-[**TESTING**](https://www.ncbi.nlm.nih.gov/pubmed/28763548) (2017): ![](Logo_RCT.png){height=1.2em} - oral methylprednisolone *vs.* placebo in IgAN with PER > 1 g/day.  Trial terminated prematurely due to excess of adverse events in the steroid group.  
+[**TESTING 2017**](https://www.ncbi.nlm.nih.gov/pubmed/28763548) (2017): ![](Logo_RCT.png){height=1.2em} - oral methylprednisolone *vs.* placebo in IgAN with PER > 1 g/day.  Trial terminated prematurely due to excess of serious infections in the steroid group.  (In this original protocol, a higher-dose prednisolone group recieved up to 60 mg/day equivalent prednisolone dose.)  
+
+[**TESTING 2022**](https://pubmed.ncbi.nlm.nih.gov/35579642/) (2022): ![](Logo_RCT.png){height=1.2em} - oral methylprednsiolone *vs.* placebo in IgAN with PER > 1 g/day (n = 503).  Trial extended with revised protocol to use a uniformly lower dose of methylprednisolone and to give PJP prophylaxsis.  The doses given equated to prednisolone 0.5 mg/kg/day (capped at 40 mg) for 2 months, tapering by 5 mg per month for total 6 -- 9 months.  50% RRR in composite end-point (40% decline in eGFR, ESKD, renal death).  Serious adverse events higher in steroid group (10% vs. 2%) - mainly in higher steroid dose group.  Predominantly Chinese cohort; pre-SGLT2i era.  
+
+[**NEFIGAN**](https://pubmed.ncbi.nlm.nih.gov/28363480/) (2017): ![](Logo_RCT.png){height=1.2em} - targeted-released budesonide *vs.* placebo in IgAN with PER > 0.75 g/day (n = 149 over 9 months).  Reduction in uPCR (25%) without safety signal.  Theoretically attractive as should exert few systemic steroid effects (high first-pass metabolism of budesonide).  
+
+[**NEFIGARD**](https://www.kireports.org/article/S2468-0249(21)01014-7/fulltext) (2021): ![](Logo_RCT.png){height=1.2em} - ongoing phase 3 trial of targeted-release budesonide in IgAN and PER > 1g/day (n = 360).  25% reduction in uPCR and 7% higher eGFR at 9 months.  Not yet reported in full.  Surrogate outcomes; short follow-up; pre-SGLT2i era.  
+
+[**DAPA-CKD subgroup**](https://pubmed.ncbi.nlm.nih.gov/33878338/) (2021): ![](Logo_RCT.png){height=1.2em} - a pre-specified analysis of DAPA-CKD (dapagliflozin *vs.* placebo in CKD with albuminuria); n = 270.  Benefits in this subgroup broadly similar to whole DAPA-CKD cohort.  70% RRR in composite endpoint (50% eGFR decline, ESKD, death).  This effect magnitude is greater than in any other IgAN trial.  
+
+[**Pillebout et al.**](https://pubmed.ncbi.nlm.nih.gov/20505654/) (2010): ![](Logo_RCT.png){height=1.2em} - very small RCT of pred + cyclophosphamide *vs.* pred alone in severe adult HSP with renal and gut disease.  No additional benefit from CYC.  
+
 
 ## Membranous 
 

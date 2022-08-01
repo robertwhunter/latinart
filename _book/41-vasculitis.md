@@ -7,7 +7,7 @@
 [**MEPEX**](https://www.ncbi.nlm.nih.gov/pubmed/17582159) (2007): ![](Logo_RCT.png){height=1.2em} - 3g IV methylprednisolone *vs.* PLEX (in addition to CYC and pred) in patients with AAV and Cr > 500 mcM.  The PLEX group fared better for primary compositive outcome of dialysis-independent survival at 3 months.  1-year survival did not differ between groups.  [Longer-term follow-up](https://www.ncbi.nlm.nih.gov/pubmed/23615499) found no difference between groups with respect to composite of mortality and ESRF.    
 
 \BeginKnitrBlock{box_landmark}<div class="box_landmark">
-**PEXIVAS** (https://www.ncbi.nlm.nih.gov/pubmed/32053298): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - factorial, low- *vs.* standard-dose glucocorticoids and plasma-exchange *vs.* no plasma exchange.  Median Cr 330; alveolar haemorrhage in 25%.  Primary outcome was composite of death and ESRF at 2 yrs.  Lower-dose steroids were non-inferior w.r.t. primary outcome are caused fewer serious infections during first year.  PLEX had no effect on primary outcome (overall and in pre-specified subgroups including Cr > 500 and lung haemorrhage).  
+[**PEXIVAS**](https://www.ncbi.nlm.nih.gov/pubmed/32053298): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - factorial, low- *vs.* standard-dose glucocorticoids and plasma-exchange *vs.* no plasma exchange.  Median Cr 330; alveolar haemorrhage in 25%.  Primary outcome was composite of death and ESRF at 2 yrs.  Lower-dose steroids were non-inferior w.r.t. primary outcome are caused fewer serious infections during first year.  PLEX had no effect on primary outcome (overall and in pre-specified subgroups including Cr > 500 and lung haemorrhage).  
 </div>\EndKnitrBlock{box_landmark}
 
 
