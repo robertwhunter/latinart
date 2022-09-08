@@ -64,3 +64,8 @@ MMF is superior to aza in maintenance:
 ## Glucocorticoid toxicity
 
 [**Apostolopoulos et al.**](https://doi.org/10.1016/S2665-9913(19)30105-5) (2020): ![](Logo_OBS.png){height=1.2em} - cohort study in South-East Asia / Australasia (n = 1700): in patients with SLE (of whom 50% had baseline kidney disease - not necessarily lupus nephritis), glucocorticoid use was associated with damage accrual, independent of disease activity.  
+
+
+## Contraception
+
+[**Petrie et al.**](https://www.ncbi.nlm.nih.gov/pubmed/16354891) & [**Sanchez-Guerro et al.**](https://www.ncbi.nlm.nih.gov/pubmed/1654890) (2005): ![](Logo_RCT.png){height=1.2em} - two RCTs testing contraceptive methods in women with SLE. Only patients with inactive or stable disease recruited; excluded if APS or prior VTE. Use of estrogen-containing contraceptives did not provoke disease flare. 

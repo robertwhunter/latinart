@@ -45,7 +45,11 @@
 
 [**MAINRITSAN 1**](https://www.ncbi.nlm.nih.gov/pubmed/25372085) (2014): ![](Logo_RCT.png){height=1.2em} - rituximab (500 mg 6-monthly) *vs.* azathioprine after CYC induction for the maintenance of remission.  RTX was better at preventing relapse; adverse events did not differ between groups.  
 
-[**RITAZAREM**] (not yet published): RTX *vs.* aza after RTX induction for relapsing disease.  
+[**MAINRITSAN 2**](https://pubmed.ncbi.nlm.nih.gov/29695500/) (2018): ![](Logo_RCT.png){height=1.2em} - fixed *vs.* responsive RTX for maintenance.  New and relapsing AAV (n = 160) in complete remission after CYC or RTX induction (tiny numbers MTX).  Fixed = 500 mg at 0 and 14 days then 6, 12 ,18 months.  Responsive = 500 mg at day 0 then repeated if CD19 count > 0 or ANCA status changed (negative to positive or doubling of ELISA titre or doubling of IF dilution).  Follow-up for ~2 yrs (28 months).  Responsive group recieved fewer infusions (median 3 vs. 5) without increase in relapse rates.  
+
+[**MAINRITSAN 3**](https://pubmed.ncbi.nlm.nih.gov/32479166/) (2020): ![](Logo_RCT.png){height=1.2em} - short *vs.* extended-duration RTX for maintenance.  RCT in AAV after completing 18 months of RTX maintenance (n = 100).  RTX *vs.* placebo every 6 months for a further 18 months (= 4 infusions).  Total relapse rates c. 5 vs. 25 % by 2 yrs; major relapse 0 vs. 13%.  
+
+**RITAZAREM** (not yet published): RTX *vs.* aza after RTX induction for relapsing disease.  Not published yet but results posted [online](https://clinicaltrials.gov/ct2/show/results/NCT01697267) and presented as an [abstract](https://acrabstracts.org/abstract/a-randomized-controlled-trial-of-rituximab-versus-azathioprine-after-induction-of-remission-with-rituximab-for-patients-with-anca-associated-vasculitis-and-relapsing-disease/).  Results from [observational induction phase](https://ard.bmj.com/content/79/9/1243) have been published.  Significantly fewer relapses with RTX.  
 
 
 ## Adjunctive therapies

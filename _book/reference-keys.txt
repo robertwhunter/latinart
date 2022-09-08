@@ -41,6 +41,8 @@ mode-of-intervention
 special-populations
 renal-dennervation
 cvs-risk-in-the-general-population
+assessing-risk
+interventions-to-reduce-risk
 cvs-risk-in-ckd
 statins
 coronary-intervention
@@ -78,6 +80,7 @@ newer-therapies
 b-cell-therapies
 cnis
 glucocorticoid-toxicity
+contraception
 adpkd
 blood-pressure-targets-and-rasi
 vasopressin-antagonist-therapy
