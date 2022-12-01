@@ -17,3 +17,6 @@ See also [statin therapy in KTRs](#statin_Tx).
 
 [**VALKYRIE**](https://www.ncbi.nlm.nih.gov/pubmed/33753537) (2021): ![](Logo_RCT.png){height=1.2em} - warfarin *vs* rivaroxaban 10 mg od *vs* rivaroxaban plus vit K for AFib on HD.  Primary composite endpoint of fatal and non-fatal CVS events.  Rivaroxaban was efficacious for the primary endpoint (HR ~0.4) and also caused less major bleeding (HR ~0.4).  Reduced rates of limb ischaemia accounted for most of benefit in primary end-point.  
 
+[**RENAL-AF**](https://pubmed.ncbi.nlm.nih.gov/36335914/) (2022): ![](Logo_RCT.png){height=1.2em} - open-label trial (PROBE) of apixaban *vs* warfarin in AF and CHADS-Vasc > 2 on HD (n = 150).  Under-powered to evaulate differences in bleeding / thrombotic events.  However overall rates of significant bleeding (30% per year) were 10-fold higher than rates of stroke / systemic embolism (3% per year).  
+
+

@@ -12,7 +12,7 @@
 [**SALT-1 & SALT-2**](https://www.ncbi.nlm.nih.gov/pubmed/17105757) (2006): ![](Logo_RCT.png){height=1.2em} - tolvaptan *vs.* placebo for eu- or hyper-volaemia hyponatraemia.  Tolvaptan was effective at raising serum Na^+^ in the short term (up to 30 days).  
 
 [**EVEREST Outcome**](https://www.ncbi.nlm.nih.gov/pubmed/17384437) (2007): ![](Logo_RCT.png){height=1.2em} - tolvaptan *vs.* placebo for patients hospitalised with heart failure.  Tolvaptan had beneficial effects on short-term fluid-electrolyte status but no effect on long-term mortality or heart-failure morbidity outcomes.  
-
+[**SGLT2i in SIAD**](https://pubmed.ncbi.nlm.nih.gov/36396331/) (2022): ![](Logo_RCT.png){height=1.2em} - empagliflozin *vs.* placebo in chronic SIAD (n = 14, cross-over, blind RCT).  Baseline Na 130 mM.  After 4 weeks, improvements in serum Na and cognitive function scores in this small study.  
 
 ## Hyperkalaemia
 

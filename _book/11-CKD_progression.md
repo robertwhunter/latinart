@@ -54,7 +54,7 @@ See also [trials of RASi in heart failure](#cardio).
 
 ### Stopping RASi
 
-The **STOP-ACEi** trial has not yet reported.  
+[**STOP-ACEi**](https://pubmed.ncbi.nlm.nih.gov/36326117/) (2022): ![](Logo_RCT.png){height=1.2em} - open-label RCT of ACEi withdrawal in progressive CKD4 (n = 420). ESKD in 60%; CVS events in 50%; deaths in 10%.  No difference in these outcomes between two groups.    
 
 [**Fu et al.**](https://www.ncbi.nlm.nih.gov/pubmed/33372009) (2021): ![](Logo_OBS.png){height=1.2em} - observational study in Swedish registry of CKD patients referred to nephrology (median eGFR 22).  Over 5 years, stopping RASi associated with higher rates of mortality and MACE but lower rates of rates of RRT.  
 
@@ -68,9 +68,17 @@ The first large trial to confirm efficacy in non-diabetic CKD was DAPA-CKD.
 \BeginKnitrBlock{box_landmark}<div class="box_landmark">[**DAPA-CKD**](https://www.ncbi.nlm.nih.gov/pubmed/32970396) (2020): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - dapagliflozin 10 mg od *vs.* placebo in CKD (eGFR 25--75) and uACR >30.  Primary composite outcome (ESKD, doubling of SCr, death from renal or CVS cause).  T2DM in 67%.  Terminated early (median follow-up 2.4 yrs) for efficacy.  RR of primary outcome 40% lower in flozin group; NNT = 19.
 </div>\EndKnitrBlock{box_landmark}
 
+This was confirmed in EMPA-KIDNEY, in a trial population that included patients with lower levels of eGFR and albuminuria.  
+
+\BeginKnitrBlock{box_landmark}<div class="box_landmark">
+[**EMPA-KIDNEY**](https://pubmed.ncbi.nlm.nih.gov/36331190/) (2022): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - empagliflozin 10 mg od *vs.* placebo in CKD (either eGFR 20 -- 45 or eGFR 45 -- 90 and uACR > 20 mg/mmol).  Stopped early for efficacy.  Empagliflozin reduced composite outcome (CKD progression, renal mortality, cardiovascular mortality) by 30%.  Effect similar in diabetic and non-diabetic participants.   Great safety profile (higher rate of discontinuation in the placebo arm).  
+
+Absolute benefit lower in patients with lower levels of albuminuria.  Improvements in GFR slope were observed at all levels of albuminuria (even uACR < 3 mg/mmol) - although the magnitude of this effect is greater at higher levels (and of course absolute benefit will also increase in this group as cardiovascular event rate is higher).  There was no significant benefit in the primary outcome or in the kidney disease progression outcome when uACR < 30 mg/mmol - but there were low event rates in these groups.  
+</div>\EndKnitrBlock{box_landmark}
+
 [**Chertow et al.**](https://www.ncbi.nlm.nih.gov/pubmed/34272327) (2021): ![](Logo_RCT.png){height=1.2em} - pre-specified analysis of patients with CKD4 in DAPA-CKD.  Benefits in this group were similar to those in overall study group.  
 
 
 [**Johansen & Argyropoulos**](https://www.ncbi.nlm.nih.gov/pubmed/33165977) (2020): ![](Logo_MET.png){height=1.2em} - a systematic review showed consistent cardiorenal benefits of SGLT2i in cardiovascular disease, CKD and HFrEF: a likely class effect.  
 
-
+[**Cardio-renal consortium meta-analysis**](https://pubmed.ncbi.nlm.nih.gov/36351458/) (2022): ![](Logo_MET.png){height=1.2em} - meta-analysis of 13 RCTs in 90,000 participants.  SGLT2i RRRs for progressive CKD = 40%, for AKI = 20%, for cardiovascular death = 20%, for heart failure hospitalisation = 20%, for cardiovascular death = 10%.  Effect sizes similar in diabetic and non-diabetic individuals.  

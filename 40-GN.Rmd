@@ -19,7 +19,7 @@
 
 [**NEFIGAN**](https://pubmed.ncbi.nlm.nih.gov/28363480/) (2017): ![](Logo_RCT.png){height=1.2em} - targeted-released budesonide *vs.* placebo in IgAN with PER > 0.75 g/day (n = 149 over 9 months).  Reduction in uPCR (25%) without safety signal.  Theoretically attractive as should exert few systemic steroid effects (high first-pass metabolism of budesonide).  
 
-[**NEFIGARD**](https://www.kireports.org/article/S2468-0249(21)01014-7/fulltext) (2021): ![](Logo_RCT.png){height=1.2em} - ongoing phase 3 trial of targeted-release budesonide in IgAN and PER > 1g/day (n = 360).  25% reduction in uPCR and 7% higher eGFR at 9 months.  Not yet reported in full.  Surrogate outcomes; short follow-up; pre-SGLT2i era.  
+[**NEFIGARD**](https://pubmed.ncbi.nlm.nih.gov/36270561/) (2022): ![](Logo_RCT.png){height=1.2em} - ongoing phase 3 trial of targeted-release budesonide in IgAN and PER > 1g/day (n = 360).  25% reduction in uPCR and 7% higher eGFR at 9 months.  Not yet reported in full.  Surrogate outcomes; short follow-up; pre-SGLT2i era.  See also the [preliminary report](https://www.kireports.org/article/S2468-0249(21)01014-7/fulltext).  
 
 [**DAPA-CKD subgroup**](https://pubmed.ncbi.nlm.nih.gov/33878338/) (2021): ![](Logo_RCT.png){height=1.2em} - a pre-specified analysis of DAPA-CKD (dapagliflozin *vs.* placebo in CKD with albuminuria); n = 270.  Benefits in this subgroup broadly similar to whole DAPA-CKD cohort.  70% RRR in composite endpoint (50% eGFR decline, ESKD, death).  This effect magnitude is greater than in any other IgAN trial.  
 

@@ -69,12 +69,14 @@ See also [dual RASi in diabetic nephropathy](#drasi_DKD).
 
 Does timing of anti-hypertensive therapy matter?  
 
-The **TIME** trial is currently recruiting.  
- 
- <!--
-[**HYGIA**](https://www.ncbi.nlm.nih.gov/pubmed/31641769) (2019): ![](Logo_RCT.png){height=1.2em} - \~ 19,000 patients randomised to take anti-hypertensives at bedtime or on waking.  Bedtime dosing reduced rate of MI, CVA and CVS death (HR \~ 0.6 over 6 yrs follow-up).  
--->
+No it does not!  
 
+[**TIME**](https://pubmed.ncbi.nlm.nih.gov/36240838/) (2022): ![](Logo_RCT.png){height=1.2em} - morning *vs.* evening dosing of anti-hypertensives (n = 20,000).  No difference in primary composite cardiovascular outcome.  
+
+NB - The high-profile [**HYGIA**](https://www.ncbi.nlm.nih.gov/pubmed/31641769) trial had major methodological flaws.  
+
+<br>
+<br>
 
 ## Special populations
 
