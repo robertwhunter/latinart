@@ -1,7 +1,7 @@
 --- 
 title: "LATINART"
 author: "Robert W Hunter"
-date: "2022-12-01"
+date: "2023-03-07"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
