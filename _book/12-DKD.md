@@ -61,4 +61,13 @@ See also [SGLT2i in non-diabetic DKD](#SGLT_CKD).
 [**CANVAS**](https://www.ncbi.nlm.nih.gov/pubmed/29133604) (2018): ![](Logo_RCT.png){height=1.2em} - canagliflozin *vs.* placebo in T2DM for primary and secondary prevention of CVS events and renal composite outcome (40% reducing in eGFR, RRT, death).  Canagliflozin reduced CVS and renal events in both primary and secondary prevention cohorts.  
 
 
+## GLP1ra  
+
+\BeginKnitrBlock{box_landmark}<div class="box_landmark">[**FLOW**](https://www.ncbi.nlm.nih.gov/pubmed/38785209) (2024): ![](Logo_RCT.png){height=1.2em} ![](Logo_SEM.png){height=1.2em} - semaglutide 1 mg weekly s.c. *vs* placebo in T2DM with CKD and albuminuria (eGFR 25 -- 75 with albuminuria).  n = 3500.  95% on RASi; 15% on SGLT2i.  Primary composite outcome (ESKD, 50% reducton in eGFR, renal or CVS death). RRR ~25% for primary outcome; 20% reduction in all-cause mortality.  No safety signal.    
+</div>\EndKnitrBlock{box_landmark}
+
+
+## Four pillars  
+
+[**Neuen at al.**](https://www.ncbi.nlm.nih.gov/pubmed/37952217) (2024): ![](Logo_MET.png){height=1.2em} - combined data from major RCTs to estimate benefit of combination SGLT2i, nsMRA, GLP1ra therapy in terms of years of life gained.  
 

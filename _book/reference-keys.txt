@@ -28,6 +28,8 @@ glycaemic-control
 DKD_RASi
 drasi_DKD
 SGLT_DKD
+glp1ra
+four-pillars
 renal-anaemia
 erythropoetin
 iron

@@ -1,7 +1,7 @@
 --- 
 title: "LATINART"
 author: "Robert W Hunter"
-date: "2023-03-07"
+date: "2024-07-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -14,4 +14,5 @@ cover-image: "logo.png"
 
 # Preface {-}
 
-This is a work in progress.  Please send any comments to [\@renalrob](https://mobile.twitter.com/renalrob).    
+This is a work in progress.  Please send any comments to [\@renalrob](https://mobile.twitter.com/renalrob).  
+
